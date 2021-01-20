@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
+        System.out.println("这他妈初始化个毛");
         System.out.println( "初始化操作" );
     }
 }
